@@ -1,1 +1,1 @@
-# Actividad_2_POO
+# Actividad_2_CompuWork
